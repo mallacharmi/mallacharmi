@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="./charmi_github_animated_banner.gif" width="100%">
+
+</div>
+
+<div align="center">
+
 # 👋 Hi, I'm Malla Charmi
 
 ### 📊 Data Analytics & AI/ML Enthusiast | Python | SQL | Power BI
