@@ -1,19 +1,8 @@
 <div align="center">
 
-<img src="./charmi_github_animated_banner.gif" width="100%">
+<img src="./charmi_github_animated_banner_v3.gif" width="100%">
 
 </div>
-
-<div align="center">
-
-# 👋 Hi, I'm Malla Charmi
-
-### 📊 Data Analytics & AI/ML Enthusiast | Python | SQL | Power BI
-
-Turning data into meaningful insights and building intelligent solutions 🚀
-
-</div>
-
 ---
 
 ## 👩‍💻 About Me
