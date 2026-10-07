@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./charmi_github_animated_banner_v3.gif" width="100%">
+<img src="./charmi_final_github_animated_banner.gif" width="100%">
 
 </div>
 ---
