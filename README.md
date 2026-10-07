@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Charmi Malla
+# 👋 Hi, I'm Malla Charmi
 
 ### 📊 Data Analytics & AI/ML Enthusiast | Python | SQL | Power BI
 
